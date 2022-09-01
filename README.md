@@ -31,18 +31,17 @@ Before running the tests make sure you are serving the app via `ng serve`.
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
 
-## Steps On How To Start Project In Atom -ScreenShots Here :
+## Steps On How To Install Atom Editor -ScreenShots Here :
 
 ![Screenshot 2021-11-06 at 15 06 51](https://user-images.githubusercontent.com/57273086/188019704-97c79876-b09b-4a6f-8fc3-d4107f252cde.png)
 ![Screenshot 2021-11-06 at 15 08 05](https://user-images.githubusercontent.com/57273086/188019749-b349707f-7688-441e-9d82-b05e0cb46d60.png)
 ![Screenshot 2021-11-06 at 15 08 49](https://user-images.githubusercontent.com/57273086/188019768-0c717dce-2d5b-4731-a284-de76358317a0.png)
 ![Screenshot 2021-11-06 at 15 09 41](https://user-images.githubusercontent.com/57273086/188019776-67a2ff06-16fb-4501-ad72-c892b85c6c0b.png)
 ![Screenshot 2021-11-06 at 15 11 00](https://user-images.githubusercontent.com/57273086/188019778-10f9ee72-238e-4f03-93bc-3df10c21b626.png)
-![Screenshot 2021-11-06 at 16 29 40](https://user-images.githubusercontent.com/57273086/188019779-c4e8fe8e-76ac-4b04-8fb9-a8cfb9a828c4.png)
 
 ## Steps On How To Install latest npm into your Project for macOS Monterey In Vs Code -ScreenShots Here :
 
-![Screenshot 2021-11-10 at 16 48 00](https://user-images.githubusercontent.com/57273086/188020462-9ba52858-a993-470a-abd3-793b291eb498.png)
+![Screenshot 2021-11-06 at 16 29 40](https://user-images.githubusercontent.com/57273086/188019779-c4e8fe8e-76ac-4b04-8fb9-a8cfb9a828c4.png)
 ![Screenshot 2021-11-10 at 17 41 36](https://user-images.githubusercontent.com/57273086/188020476-c2d3aeb5-5c1a-406e-9ad0-90d9b1159932.png)
 ![Screenshot 2021-11-10 at 17 42 15](https://user-images.githubusercontent.com/57273086/188020484-e346c65e-9deb-4d42-8e9c-2ad899ddca12.png)
 ![Screenshot 2021-11-11 at 01 07 18](https://user-images.githubusercontent.com/57273086/188020492-e05afb95-00d3-4f59-bf5d-e3b08cfbebd2.png)
