@@ -39,8 +39,6 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 ![Screenshot 2021-11-06 at 15 09 41](https://user-images.githubusercontent.com/57273086/188019776-67a2ff06-16fb-4501-ad72-c892b85c6c0b.png)
 ![Screenshot 2021-11-06 at 15 11 00](https://user-images.githubusercontent.com/57273086/188019778-10f9ee72-238e-4f03-93bc-3df10c21b626.png)
 ![Screenshot 2021-11-06 at 16 29 40](https://user-images.githubusercontent.com/57273086/188019779-c4e8fe8e-76ac-4b04-8fb9-a8cfb9a828c4.png)
-![Screenshot 2021-11-28 at 07 03 56](https://user-images.githubusercontent.com/57273086/188020016-7ba213c1-d4be-4043-8f96-4a44a8da49cc.png)
-![Screenshot 2021-11-28 at 07 09 09](https://user-images.githubusercontent.com/57273086/188020023-123b4fb2-9341-4477-ab78-23aae3db220f.png)
 
 ## Steps On How To Install latest npm into your Project for macOS Monterey In Vs Code -ScreenShots Here :
 
@@ -66,5 +64,7 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 ![Screenshot 2021-11-28 at 07 31 45](https://user-images.githubusercontent.com/57273086/188020046-83f9ea8e-c1ac-4695-8840-42b134bfb836.png)
 ![Screenshot 2021-11-27 at 20 42 26](https://user-images.githubusercontent.com/57273086/188018685-f777685a-2a58-48c6-a3d5-7a6a1b244940.png)
 ![Screenshot 2021-11-27 at 21 00 39](https://user-images.githubusercontent.com/57273086/188018699-99051b0f-76af-4a7e-8cc0-189d6f6d2fcf.png)
+![Screenshot 2021-11-28 at 07 03 56](https://user-images.githubusercontent.com/57273086/188020016-7ba213c1-d4be-4043-8f96-4a44a8da49cc.png)
+![Screenshot 2021-11-28 at 07 09 09](https://user-images.githubusercontent.com/57273086/188020023-123b4fb2-9341-4477-ab78-23aae3db220f.png)
 
 ## Happy Learning !!
