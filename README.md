@@ -1,3 +1,7 @@
+## Solution on the Build An Album Store Product Page With Angular Project.
+
+This is a solution on how to solve node's deprecated issues and inability to install npm on the lastest macOS Monterey(Intel Chip)
+
 # Build An Album Store Product Page With Angular
 
 This repo contains the code for the Pluralsight Project "Build An Album Store Product Page With Angular," located here: https://app.pluralsight.com/projects/build-an-album-store-product-page-with-angular/
@@ -39,7 +43,7 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 ![Screenshot 2021-11-06 at 15 09 41](https://user-images.githubusercontent.com/57273086/188019776-67a2ff06-16fb-4501-ad72-c892b85c6c0b.png)
 ![Screenshot 2021-11-06 at 15 11 00](https://user-images.githubusercontent.com/57273086/188019778-10f9ee72-238e-4f03-93bc-3df10c21b626.png)
 
-## Steps On How To Install latest npm into your Project for macOS Monterey In Vs Code: Solution To node's Deprecated Issues -ScreenShots Here :
+## Steps On How To Install latest npm into your Project for macOS Monterey In Vs Code -ScreenShots Here :
 
 ![Screenshot 2021-11-06 at 16 29 40](https://user-images.githubusercontent.com/57273086/188019779-c4e8fe8e-76ac-4b04-8fb9-a8cfb9a828c4.png)
 ![Screenshot 2021-11-10 at 17 41 36](https://user-images.githubusercontent.com/57273086/188020476-c2d3aeb5-5c1a-406e-9ad0-90d9b1159932.png)
