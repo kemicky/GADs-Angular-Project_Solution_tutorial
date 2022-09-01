@@ -1,7 +1,6 @@
 ## Solution on the Build An Album Store Product Page With Angular Project.
 
-This is a solution on how to solve # node's deprecated issues or the inability to install npm owing to npm outdated issues
-on the lastest macOS Monterey(Intel Chip)
+This is a solution on how to solve **node's deprecated issues or the inability to install npm owing to npm outdated issues** on the lastest macOS Monterey(Intel Chip)
 
 # Build An Album Store Product Page With Angular
 
